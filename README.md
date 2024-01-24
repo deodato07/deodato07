@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, sempre 
 ## 🚀 Tecnologias e Ferramentas
 
 - 💻 Java | JavaScript
-- 🌐 Spring Boot | Vue.js
+- 🌐 SpringBoot | Vue.js
 - 🛢️ SQL | MySQL | PostgreSQL
 - 🔄 BPMN | UML
 
