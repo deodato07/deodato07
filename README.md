@@ -1,3 +1,10 @@
+
+Olá sou Deodato Moreira, Há um pouco mais de um ano mudei para o desenvolvimento de software, o que tem sido desafiador e gratificante Sou adaptável e determinado, buscando constantemente oportunidades de crescimento. 
+
+Desenvolvedor Java |Javascript 
+Spring Boot|SQL
+MySQL|BPMN|UML
+
 <div align="center">
   <a href="https://github.com/deodato07">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deodato07&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
