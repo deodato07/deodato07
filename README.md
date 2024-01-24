@@ -17,14 +17,13 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, sempre 
 
 ## 🛠️ Projetos Destacados
 
-- [Projeto 1](link_projeto_1): Descrição breve e impacto.
-- [Projeto 2](link_projeto_2): Descrição breve e impacto.
+- [Projeto 1]([link_projeto_1](https://github.com/deodato07/SpringBoot3-API-REST)): Descrição breve e impacto.
+- [Projeto 2]([link_projeto_2](https://github.com/deodato07/Workshop-SpringBoot-jpa)): Descrição breve e impacto.
 
 ## 🤝 Vamos Conectar!
 
-- 📧 [E-mail](mailto:seu.email@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- 🌐 [Portfolio](https://seu-portfolio.com)
+- 📧 [E-mail](deodatomoreira07@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deodato-moreira-053621128/)
 
 ## 🌟 Contribuições
 
