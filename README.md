@@ -17,8 +17,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, sempre 
 
 ## 🛠️ Projetos Destacados
 
-- [Projeto 1](https://github.com/deodato07/SpringBoot3-API-REST): Descrição breve e impacto.
-- [Projeto 2](https://github.com/deodato07/Workshop-SpringBoot-jpa): Descrição breve e impacto.
+- [Projeto 1](https://github.com/deodato07/SpringBoot3-API-REST): API-REST.
+- [Projeto 2](https://github.com/deodato07/Workshop-SpringBoot-jpa): Workshop-SpringBoot-jpa.
 
 ## 🤝 Vamos Conectar!
 
